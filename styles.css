@@ -1,0 +1,46 @@
+.navbar .navbar-brand {
+  color: #4c4c4b;
+  margin-left: 75px;
+  font-size: 35pt;
+  font-weight: bold;
+}
+
+.navbar .nav-item {
+  margin-right: 50px;
+  font-size: 15pt;
+}
+
+.navbar .navbar-brand:hover {
+  color: #4c4c4b;
+}
+
+.container p {
+  font-size: 25pt;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+
+.project3, .project2, .project1 {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 0 auto;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+
+.project1 {
+  background-color: #dbdbdb;
+}
+
+.project2 {
+  background-color: #a8a8a8;
+}
+
+.project3 {
+  background-color: #dbdbdb;
+}
+
+/*# sourceMappingURL=styles.css.map */
